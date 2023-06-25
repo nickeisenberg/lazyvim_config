@@ -1,1 +1,1 @@
-LazyVim with some changes and additions
+No longer using this config.
